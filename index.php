@@ -5,11 +5,4 @@
 # Yapımcı / Author : Anveten team
 # Copyright (c)    : 2014 Anveten
 */
-
-
-
-
-
-
-
 ?>
